@@ -36,18 +36,6 @@ During training, histograms are plotted showing how the generated distribution a
 
 <!-- Replace or remove this line if you don't have images -->
 
-# How to Run
-
-# 1. Clone the repository
-git clone https://github.com/yourusername/qgan-sign-language-prototype.git
-cd qgan-sign-language-prototype
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the notebook or script
-python train_qgan.py
-Alternatively, open and run the project in Google Colab with GPU enabled.
 
 📚 References
 PennyLane QGAN Tutorials
